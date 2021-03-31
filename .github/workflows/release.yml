@@ -26,4 +26,5 @@ jobs:
             ${{ runner.os }}-yarn-
       - name: Install Dependancies
         run: yarn install
+      - name: Release
         run: npx semantic-release
