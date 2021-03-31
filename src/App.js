@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Make me Beautiful!!! and work
+          Make me Beautiful!!!
         </a>
       </header>
     </div>
