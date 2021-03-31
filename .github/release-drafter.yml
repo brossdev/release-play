@@ -3,11 +3,11 @@ tag-template: 'v$NEXT_PATCH_VERSION'
 categories:
   - title: '🚀 Features'
     labels:
-      - '💡 feature'
+      - 'feature'
       - '🍕 enhancement'
   - title: '🐛 Bug Fixes'
     labels:
-      - '🐛 bug'
+      - 'bug'
   - title: '🧰 Maintenance'
     label: 'chore'
   - title: '📖 Documentation'
